@@ -2,7 +2,7 @@
 
 This is a mini project for predicting Titanic passenger survival using machine learning (Random Forest classifier). The goal is to demonstrate core data science skills including data preprocessing, model training, and evaluation.
 
-# Dataset
+## Dataset
 - Dataset: [Kaggle Titanic](https://www.kaggle.com/competitions/titanic/data)
 - Features used:
   - Pclass
@@ -13,13 +13,13 @@ This is a mini project for predicting Titanic passenger survival using machine l
   - Fare
   - Embarked
 
-# Technologies Used
+## Technologies Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Jupyter Notebook
 
-# What I Did
+## What I Did
 - Cleaned and explored the dataset
 - Handled missing values
 - Encoded categorical variables
@@ -27,6 +27,6 @@ This is a mini project for predicting Titanic passenger survival using machine l
 - Trained a Random Forest model
 - Evaluated performance with accuracy, confusion matrix, and F1 score
 
-# Results
+## Results
 - Accuracy: 82.1%
 - F1 Score: 0.78 (class 1)
