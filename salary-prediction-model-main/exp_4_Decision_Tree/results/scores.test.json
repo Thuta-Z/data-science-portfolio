@@ -1,0 +1,11 @@
+{
+    "true_positive": 115,
+    "true_negative": 106,
+    "false_negative": 18,
+    "false_positive": 11,
+    "accuracy": 0.807081,
+    "precision": 0.757168,
+    "recall": 0.795164,
+    "support": 2192,
+    "f1-score": 0.775701
+}
