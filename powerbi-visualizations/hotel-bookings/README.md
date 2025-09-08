@@ -12,7 +12,6 @@ This Power BI dashboard analyzes hotel booking data (2015–2017) to uncover ins
 ## Files
 - `Hotel_Bookings.pbix`: Editable Power BI file
 - `Hotel_Bookings.pdf`: Exported dashboard for quick viewing
-- `screenshots/`: Images of the dashboard
 
 ## Insights
 - Cancellation rate is ~37%, with Online Travel Agencies contributing the most.
